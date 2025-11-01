@@ -44,13 +44,13 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@eki_zulfar?si=T4o6_mMaiY00eJ4V" target="_blank">
+  <a href="https://youtube.com/@enggar404?si=fkTjHul7Z9n1JhP7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/ekizr_/?hl=id" target="_blank">
+  <a href="https://www.instagram.com/itsgaarr/?hl=id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ekizr/" target="_blank">
+  <a href="https://www.linkedin.com/in/garminn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
