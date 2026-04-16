@@ -26,7 +26,7 @@ const enggar = {
   backend:    ["Node.js", "Express.js", "REST API"],
   database:   ["Firebase", "MySQL", "MongoDB"],
   tools:      ["Git", "GitHub", "VS Code", "Figma"],
-  motto:      "Code. Create. Conquer. 🔥"
+  motto:      "Memanfaatkan AI sebagai alat, bukan pengganti. VAMOSSS🔥"
 };
 ```
 
